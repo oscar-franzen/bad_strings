@@ -499,3 +499,4 @@
 "GET /.git/config HTTP/1.1" 404 209 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"
 "\x03\x00" 400 182 "-" "-"
 "GET /manager/html HTTP/1.1" 404 580 "-" "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)"
+"GET /administrator/index.php HTTP/1.1" 301 194 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
